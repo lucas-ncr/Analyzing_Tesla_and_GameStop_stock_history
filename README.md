@@ -18,7 +18,7 @@ This project is designed to extract stock market data using the `yfinance` libra
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/stock-data-extraction.git
+   git clone https://github.com/lucas-ncr/Analyzing_Tesla_and_GameStop_stock_history
    ```
 2. Navigate to the project directory:
    ```sh
